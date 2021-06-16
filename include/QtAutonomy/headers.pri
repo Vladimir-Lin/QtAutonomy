@@ -1,0 +1,5 @@
+SYNCQT.HEADER_FILES = ../../include/QtAutonomy/qtautonomy.h
+SYNCQT.HEADER_CLASSES = ../../include/QtAutonomy/QtAutonomy
+SYNCQT.PRIVATE_HEADER_FILES =
+SYNCQT.QPA_HEADER_FILES = 
+SYNCQT.INJECTIONS = 
